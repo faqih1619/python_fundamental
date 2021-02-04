@@ -1,6 +1,6 @@
 ######### NUMPY (INTRO) #########
 """
-
+  Adalah salah 1 library terkenal di python yang digunakan untuk mengolah data berbentuk array dengan metode komputasi ilmiah
 """
 
 
