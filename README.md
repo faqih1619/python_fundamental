@@ -1,2 +1,2 @@
 # python_fundamental
-Berisi kumpulan kode atau program bahasa python untuk pemula
+just a collection of simple code written by novice programmers dedicated to learning and developing together
