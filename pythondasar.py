@@ -259,18 +259,6 @@ if syarat1 != syarat2:
 else:
     print("ini False")
 
-# contoh keempat (mencari jodoh) dengan menerapkan conditional statement dan logical operator
-tamu = "pria"
-shalihah = True
-rajin = True
-
-if tamu == "wanita":
-    if shalihah & rajin:
-        print("saya siap menjadikanmu istri")
-    else:
-        print("maaf ya kamu bukan tipeku")
-else:
-    print("anda laki-laki, sedangkan saya sedang mencari perempuan,pergi sana")
 
 
 
